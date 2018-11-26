@@ -9,7 +9,7 @@
  * --with-http_ssl_module (built-in)
  * --with-http_secure_link_module (built-in)
 
-# Install & test this (w/o compilation of NGINX
+# Install & test this (w/o compilation of NGINX)
 
 * Install NGINX and `requires`, here is explanation how: http://nginx.org/en/linux_packages.html
 * Configure conf/aws_utils.js and conf/s3_proxy.conf
